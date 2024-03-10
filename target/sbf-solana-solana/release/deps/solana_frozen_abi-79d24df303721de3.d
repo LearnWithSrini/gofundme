@@ -1,0 +1,10 @@
+/home/user/git_repos/solana-projects/gofundme/target/sbf-solana-solana/release/deps/solana_frozen_abi-79d24df303721de3.rmeta: /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.4/src/lib.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.4/src/abi_digester.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.4/src/abi_example.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.4/src/hash.rs
+
+/home/user/git_repos/solana-projects/gofundme/target/sbf-solana-solana/release/deps/libsolana_frozen_abi-79d24df303721de3.rlib: /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.4/src/lib.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.4/src/abi_digester.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.4/src/abi_example.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.4/src/hash.rs
+
+/home/user/git_repos/solana-projects/gofundme/target/sbf-solana-solana/release/deps/solana_frozen_abi-79d24df303721de3.d: /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.4/src/lib.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.4/src/abi_digester.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.4/src/abi_example.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.4/src/hash.rs
+
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.4/src/lib.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.4/src/abi_digester.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.4/src/abi_example.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.4/src/hash.rs:
